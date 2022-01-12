@@ -5,8 +5,8 @@
     
     <entry>
       <title>【保姆级教程】安装Amazing Luogu</title>
-      <link href="/2022/01/01/install/"/>
-      <url>/2022/01/01/install/</url>
+      <link href="/install/"/>
+      <url>/install/</url>
       
         <content type="html"><![CDATA[<h2 id="安装Stylus"><a href="#安装Stylus" class="headerlink" title="安装Stylus"></a>安装Stylus</h2><ol><li><p>由于国内某种原因，大家要去<a href="https://www.extfans.com/web-development/clngdbkpkpeebahjckkjfobafhncgmne/">这里</a>下载stylus解压后找到<strong>带stylus字样的</strong>一个crx文件，放到随便一个地方备用。</p></li><li><p>根据浏览器点击下面的两个按钮： <a href="chrome://extentions/">$\large{\boxed{\text{Chrome}}}$</a> <a href="edge://extentions/">$\large{\boxed{\text{新版Edge}}}$</a></p></li></ol><p>在打开的界面将开发者模式打开，拖入stylus的crx文件。</p><h2 id="安装Amazing-Luogu"><a href="#安装Amazing-Luogu" class="headerlink" title="安装Amazing Luogu"></a>安装Amazing Luogu</h2><p>打开这个网站的主页，点击顶栏的“使用Stylus一键安装”打开安装界面，安装后即可打开洛谷查看效果了。</p>]]></content>
       
